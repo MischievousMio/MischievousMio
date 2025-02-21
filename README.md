@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MischievousMio
-- 👀 I’m interested in cryptography, graph theory, combinatorial game theory, go. (language or game? yes)
+- 👀 I’m interested in cryptography, combinatorial game theory, and go. (language or game? yes)
 - 🌱 I’m currently learning C (relearning, again again).
 - 📫 How to reach me: mischievous.mio@gmail.com
 - 😄 Pronouns: she/her
