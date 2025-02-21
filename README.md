@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C (relearning, again again).
 - 📫 How to reach me: mischievous.mio@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I started implementing a custom 16-bit ISA in hardware once, until I added up the cost of all the ICs.
+- ⚡ Fun fact: I started implementing a custom 16-bit ISA in hardware once, until I calculated cost.
 
 <!---
 MischievousMio/MischievousMio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
